@@ -2,7 +2,7 @@ export default function Pricing() {
   const plans = [
     {
       title: "Basic Website",
-      price: "₹3,000 – ₹5,000",
+      price: "₹4,000 – ₹6,000",
       desc: "Best for small businesses & personal use",
       features: [
         "1–3 Pages",
@@ -15,7 +15,7 @@ export default function Pricing() {
     },
     {
       title: "Business Website",
-      price: "₹8,000 – ₹15,000",
+      price: "₹12,000 – ₹20,000",
       desc: "Perfect for growing businesses",
       features: [
         "5–8 Pages",
@@ -30,7 +30,7 @@ export default function Pricing() {
     },
     {
       title: "Custom / Web App",
-      price: "₹20,000+",
+     price: "₹30,000+",
       desc: "Advanced & custom solutions",
       features: [
         "Custom Features",
