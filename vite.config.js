@@ -5,9 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [ tailwindcss(),react()],
-    darkMode: "class",
-  content: ["./index.html", "./src/**/*.{js,jsx}"],
-  theme: {
-    extend: {},
-  },
+  base: "/", // 👈 IMPORTANT
 })
