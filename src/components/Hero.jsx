@@ -28,7 +28,7 @@ export default function Hero() {
           <h1 className="text-3xl sm:text-5xl lg:text-6xl font-bold mb-3 sm:mb-4 leading-tight">
             Hi, I'm{' '}
             <span className="bg-gradient-to-r from-blue-400 via-blue-500 to-purple-500 bg-clip-text text-transparent animate-gradient">
-              Amit Chauhan
+              Devmit
             </span>
           </h1>
 

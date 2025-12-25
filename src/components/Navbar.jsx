@@ -32,9 +32,9 @@ export default function Navbar() {
 
         {/* BRAND */}
         <Link to="/" className="text-lg sm:text-xl font-bold text-white group">
-          Amit
+          Dev
           <span className="bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent group-hover:from-purple-400 group-hover:to-blue-500 transition-all duration-300">
-            .dev
+            mit
           </span>
         </Link>
 
