@@ -34,7 +34,7 @@ export default function Hero() {
   }, [text, isDeleting, loopNum, typingSpeed]);
 
   return (
-    <section className="relative min-h-screen flex flex-col justify-center -mt-20 sm:mt-5 items-center text-center px-6 overflow-hidden bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
+    <section className="relative min-h-screen flex flex-col justify-center -mt-8 sm:mt-5 items-center text-center px-6 overflow-hidden bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       
       {/* Animated Background Blobs */}
       <div className="absolute top-20 left-10 w-72 h-72 bg-blue-500 rounded-full blur-3xl opacity-20 animate-pulse"></div>
